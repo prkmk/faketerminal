@@ -1,0 +1,28 @@
+* {
+	background-color: black;
+	color:white;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	border: none;
+	outline: none;
+}
+#prompt {
+	color: yellow;
+}
+#input {
+	border-style: none;
+	margin: 0;
+  padding: 0;
+  width: max-content;
+  width: 50%;
+}
+a {
+  text-decoration: none;
+  color: darkviolet;
+}
+a:hover {
+  text-decoration: underline;
+}
+pre {
+  display: inline;
+}
